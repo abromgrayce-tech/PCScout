@@ -1,0 +1,22 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Generated catalog and downloaded source data
+data/computer_products_10000.jsonl
+data/source/
+data/**/*.parquet
+
+# Runtime output
+*.log
+

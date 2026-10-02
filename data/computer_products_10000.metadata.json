@@ -1,0 +1,27 @@
+{
+  "dataset": "McAuley-Lab/Amazon-Reviews-2023",
+  "config": "raw_meta_Electronics",
+  "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e",
+  "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
+  "generated_at": "2026-10-02T03:10:07.275865+00:00",
+  "record_count": 10000,
+  "category_counts": {
+    "case": 316,
+    "cooler": 176,
+    "cpu": 302,
+    "desktop": 493,
+    "gpu": 317,
+    "hdd": 617,
+    "keyboard": 1192,
+    "laptop": 1603,
+    "memory": 254,
+    "monitor": 559,
+    "motherboard": 504,
+    "mouse": 232,
+    "network_card": 195,
+    "other": 2843,
+    "psu": 44,
+    "ssd": 353
+  },
+  "catalog_sha256": "271341ba84235decfa395345ce62d91158810d71f63c401fcba20e55507ed497"
+}
